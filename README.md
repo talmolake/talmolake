@@ -26,13 +26,14 @@
   - [Network Subnetting](https://github.com/talmolake/warner)
  
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="TalMolake | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="TalMolake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[gmail]: <a href="mailto:talmolake@gmail.com">Send me an email</a>
-[linkedin]: https://www.linkedin.com/in/tal-molake-501594297/
+<a href="mailto:talmolake@gmail.com">
+  <img align="left" alt="TalMolake | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tal-molake-501594297/">
+  <img align="left" alt="TalMolake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <!--
 **talmolake/talmolake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

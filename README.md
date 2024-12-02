@@ -10,7 +10,7 @@
 <h3>Full Stack Mobile Application:</h3>
 
 - <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
-  - [MediCare Application Description](https://github.com/talmolake/medicare#readme-ov-file)
+  - [MediCare Application Description](https://github.com/talmolake/medicare?tab=readme-ov-file#readme)
   - [MediCare Application Code](https://github.com/talmolake/medicare)
 
 <h3>Full Stack Enterprize Mobile Application:</h3>

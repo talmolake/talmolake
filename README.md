@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Tal Nametso Molake <br/><a href="https://github.com/joshmadakor1">Programming Student</a>, <a href="[https://www.linkedin.com/in/tal-molake-501594297/]">Cybersecurity Student</a>
+<h1>Hi there 👋, I'm Tal Nametso Molake <br/><a href="https://github.com/joshmadakor1">Programming Student</a>, <a href="https://www.linkedin.com/in/tal-molake-501594297/">Cybersecurity Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

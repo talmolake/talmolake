@@ -22,7 +22,7 @@
 <h3>Configuring a network via cisco packet tracer:</h3>
 
 - <b>Network Subnetting (Cisco Packet Tracer)</b>
-  - [Network Subnetting](https://github.com/talmolake/warner)
+  - [Network Subnetting](https://github.com/talmolake/network-subnetting)
  
 
 <h2>🤳 Connect with me:</h2>

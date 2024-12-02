@@ -9,15 +9,24 @@
     
 <h3>Full Stack Mobile Application:</h3>
 
-- <b>Full Stack Mobile App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
+  - [MediCare Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h3>Full Stack Enterprize Mobile Application:</h3>
-- <b>Enterprise Application (React, NodeJS)</b>
+
+- <b>Enterprise Application (React(JavaScript), NodeJS)</b>
+
   - [Fine Dine Application Description](https://github.com/talmolake/warner)
   - [Fine Dine](https://talmolake.github.io/warner/)
 
+<h2>👨‍💻 Recent Network Configuration Projects:</h2>
+<h3>Configuring a network via cisco packet tracer:</h3>
 
+- <b>Web Application</b>
+  - [Warner Bros Website Description](https://github.com/talmolake/warner)
+  - [Warner Bros Website](https://talmolake.github.io/warner/)
+ 
+    
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -51,7 +60,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**talmolake/talmolake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

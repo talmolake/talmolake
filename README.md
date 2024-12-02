@@ -16,8 +16,7 @@
 
 - <b>Enterprise Application (React(JavaScript), NodeJS)</b>
 
-  - [Fine Dine Application Description](https://github.com/talmolake/warner)
-  - [Fine Dine](https://talmolake.github.io/warner/)
+  - [Fine Dine Application Description and Code](https://github.com/talmolake/finedine)
 
 <h2>👨‍💻 Recent Network Configuration Projects:</h2>
 <h3>Configuring a network via cisco packet tracer:</h3>

@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm <a href="https://www.linkedin.com/in/tal-molake-501594297/">Tal Nametso Molake</a>, <br/><a>Programming Student and Cybersecurity Student</a>
 
-<h2>👨‍💻 Recent Software Development Projects:</h2>
+<h2>👩🏽‍💻 Recent Software Development Projects:</h2>
 <h3>Front End Web Application:</h3>
 
 - <b>Web Application</b>
@@ -21,13 +21,18 @@
   - [Fine Dine Application Description](https://github.com/talmolake/finedine/blob/master/README.md)
 
 
-<h2>👨‍💻 Recent Network Configuration Projects:</h2>
+<h2>👩🏽‍💻 Recent Network Configuration Projects:</h2>
 <h3>Configuring a network via cisco packet tracer:</h3>
 
 - <b>Network Subnetting (Cisco Packet Tracer)</b>
   - [Network Subnetting](https://github.com/talmolake/network-subnetting)
   - [Description](https://github.com/talmolake/network-subnetting/blob/master/README.md) 
 
+<h3>👩🏽‍🎓 Cources and Certifications:</h3>
+
+  - <h3>Courses</h3><img src="https://imgur.com/O8EN3Qs.png" height="50%" width="40%" alt="Logout"/>
+  - <h3>CyberSecurity For Robotics and Autonomous systems Certification</h3><img src="https://imgur.com/l5ATQnx.png" height="50%" width="40%" alt="Logout"/>
+  - <h3>Deep Web And Cyber Security certification</h3><img src="https://imgur.com/wqQ4SmV.png" height="50%" width="40%" alt="Logout"/>
 
 <h2>🤳 Connect with me:</h2>
 

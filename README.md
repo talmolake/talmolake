@@ -10,7 +10,7 @@
 <h3>Full Stack Mobile Application:</h3>
 
 - <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
-  - [MediCare Application](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [MediCare Application](https://github.com/talmolake/medicare)
 
 <h3>Full Stack Enterprize Mobile Application:</h3>
 

@@ -23,7 +23,7 @@
 
 - <b>Network Subnetting (Cisco Packet Tracer)</b>
   - [Network Subnetting](https://github.com/talmolake/network-subnetting)
- 
+
 
 <h2>🤳 Connect with me:</h2>
 

@@ -17,7 +17,7 @@
 <h3>Full Stack Enterprize Mobile Application:</h3>
 
 - <b>Enterprise Application (React(JavaScript), NodeJS)</b>
-  - [Fine Dine Application Code](https://github.com/talmolake/finedines)
+  - [Fine Dine Application Code](https://github.com/talmolake/finedine)
   - [Fine Dine Application Description](https://github.com/talmolake/finedine/blob/master/README.md)
 
 

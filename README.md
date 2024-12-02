@@ -10,14 +10,12 @@
 <h3>Full Stack Mobile Application:</h3>
 
 - <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
-  - [MediCare Application Description](https://github.com/talmolake/medicare?tab=readme-ov-file#readme)
-  - [MediCare Application Code](https://github.com/talmolake/medicare)
+  - [MediCare Application Code and Description](https://github.com/talmolake/medicare)
 
 <h3>Full Stack Enterprize Mobile Application:</h3>
 
 - <b>Enterprise Application (React(JavaScript), NodeJS)</b>
-  - [Fine Dine Application Description](https://github.com/talmolake/finedine#readme-ov-file)
-  - [Fine Dine Application Code](https://github.com/talmolake/finedine)
+  - [Fine Dine Application Code And Description](https://github.com/talmolake/finedine)
 
 <h2>👨‍💻 Recent Network Configuration Projects:</h2>
 <h3>Configuring a network via cisco packet tracer:</h3>

@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm <a href="https://www.linkedin.com/in/tal-molake-501594297/">Tal Nametso Molake</a>, <br/><a>Programming Student and Cybersecurity Student</a>
+<h1>Hi 👋, I'm <a href="https://www.linkedin.com/in/tal-molake-501594297/">Tal Nametso Molake</a>, <br/><a>Mobile And Web Technology Student and Cybersecurity Student</a>
 
 <h2>👩🏽‍💻 Recent Software Development Projects:</h2>
 <h3>Front End Web Application:</h3>

@@ -28,7 +28,7 @@
   - [Network Subnetting](https://github.com/talmolake/network-subnetting)
   - [Description](https://github.com/talmolake/network-subnetting/blob/master/README.md) 
 
-<h2>👩🏽‍🎓 Cources and Certifications:</h2>
+<h2>👩🏽‍🎓 Academic Achievements and Certifications:</h2>
 
   - <h3>Courses</h3><img src="https://imgur.com/O8EN3Qs.png" height="50%" width="40%" alt="Logout"/>
   - <h3>CyberSecurity For Robotics and Autonomous systems Certification</h3><img src="https://imgur.com/l5ATQnx.png" height="50%" width="40%" alt="Logout"/>

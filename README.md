@@ -18,7 +18,7 @@
 
 - <b>Enterprise Application (React(JavaScript), NodeJS)</b>
   - [Fine Dine Application Code](https://github.com/talmolake/finedine)
-  - [Fine Dine Application Description](https://github.com/talmolake/finedine/blob/master/README.md)
+  - [Fine Dine Application Description](https://talmolake.github.io/finedine/)
 
 
 <h2>👩🏽‍💻 Recent Network Configuration Projects:</h2>

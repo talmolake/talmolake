@@ -5,7 +5,7 @@
 
 - <b>Web Application</b>
   - [Warner Bros Website](https://talmolake.github.io/warner/)
-  - [Warner Bros Website Description](https://github.com/talmolake/warner)
+  - [Warner Bros Website Code and Description](https://github.com/talmolake/warner)
     
 <h3>Full Stack Mobile Application:</h3>
 

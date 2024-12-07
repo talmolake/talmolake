@@ -26,7 +26,7 @@
 
 - <b>Network Subnetting (Cisco Packet Tracer)</b>
   - [Network Subnetting](https://github.com/talmolake/network-subnetting)
-  - [Description](https://github.com/talmolake/network-subnetting/blob/master/README.md) 
+  - [Description](https://talmolake.github.io/network-subnetting/) 
 
 <h2>👩🏽‍🎓 Academic Achievements and Certifications:</h2>
 

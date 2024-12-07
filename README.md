@@ -11,7 +11,7 @@
 
 - <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
   - [MediCare Application Code](https://github.com/talmolake/medicare)
-  - [MediCare Application Description](https://github.com/talmolake/medicare/blob/master/README.md)
+  - [MediCare Application Description](https://talmolake.github.io/medicare/)
 
 
 <h3>Full Stack Enterprize Mobile Application:</h3>

@@ -33,7 +33,7 @@
   - <h3>Courses</h3><img src="https://imgur.com/O8EN3Qs.png" height="50%" width="40%" alt="courses"/>
   - <h3>CyberSecurity For Robotics and Autonomous systems Certification</h3><img src="https://imgur.com/l5ATQnx.png" height="50%" width="40%" alt="cert1"/>
   - <h3>Deep Web And Cyber Security certification</h3><img src="https://imgur.com/wqQ4SmV.png" height="50%" width="40%" alt="cert2"/>
-  - <h3>Certified Metaverse Expert</h3><img src="https://imgur.com/a/rwKAKHL.png" height="50%" width="40%" alt="cert3"/>
+  - <h3>Certified Metaverse Expert</h3><img src="https://imgur.com/poEa3oD.png" height="50%" width="40%" alt="cert3"/>
 
 <h2>🤳 Connect with me:</h2>
 

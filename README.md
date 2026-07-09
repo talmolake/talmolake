@@ -20,6 +20,12 @@
   - [Fine Dine Application Code](https://github.com/talmolake/finedine)
   - [Fine Dine Application Description](https://talmolake.github.io/finedine/)
 
+<h3>Full Stack Mobile Application:</h3>
+
+- <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
+  - [MediCare Application Code](https://github.com/talmolake/medicare)
+  - [MediCare Application Description](https://talmolake.github.io/medicare/)
+
 
 <h2>👩🏽‍💻 Recent Network Configuration Projects:</h2>
 <h3>Configuring a network via cisco packet tracer:</h3>
@@ -37,7 +43,7 @@
 
 <h2>🤳 Connect with me:</h2>
 
-<a href="mailto:talmolake@gmail.com">
+<a href="mailto:nametsomolake@gmail.com">
   <img align="left" alt="TalMolake | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tal-molake-501594297/">

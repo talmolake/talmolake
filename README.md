@@ -15,7 +15,7 @@ Software Engineer with experience in enterprise technology environments and full
 - Community Engagement Officer and Data Analyst at Gaborone AI Hub, leading weekly technology-focused programmes and initiatives
 - Interested in software engineering practices, scalable systems, Artificial Intelligence, and emerging technologies
 
-## Technologies & Tools
+## Technologies & Tools:
 
 **Languages:** Java • JavaScript • TypeScript • Kotlin • SQL
 

@@ -1,47 +1,74 @@
-<h1>Hi 👋, I'm <a href="https://www.linkedin.com/in/tal-molake-501594297/">Tal Nametso Molake</a>, <br/><a>Mobile And Web Technology Student, and Cybersecurity Student</a>
+<h1>
+  Hi 👋, I'm
+  <a href="https://www.linkedin.com/in/tal-molake-501594297/">Tal Nametso Molake</a>
+</h1>
+<h3>Software Engineer | Full-Stack Developer</h3>
 
-<h2>👩🏽‍💻 Recent Software Development Projects:</h2>
-<h3>Front End Web Application:</h3>
+<p>
+I recently completed a BSc (Hons) in Mobile and Web Technologies. I'm passionate about designing and developing reliable web and mobile applications with a focus on creating practical solutions to real-world problems.
+</p>
 
-- <b>Web Application</b>
-  - [Warner Bros Website](https://talmolake.github.io/warner/)
-  - [Warner Bros Website Code and Description](https://github.com/talmolake/warner)
-    
-<h3>Full Stack Mobile Application:</h3>
+## About Me
+- Recently completed a BSc (Hons) in Mobile and Web Technologies at the University of Sunderland
+- Completed an industrial attachment as an IT Support Technician at First National Bank Botswana's Technology Services Division
+- Building full-stack web and mobile applications using Java, JavaScript, TypeScript, Node.js, Kotlin, and SQL
+- Interested in software engineering, backend development, enterprise systems, Artificial Intelligence, and mobile application development
+- Community Engagement Officer and Data Analyst at Gaborone AI Hub, leading weekly technology-focused programmes and initiatives
 
-- <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
-  - [MediCare Application Code](https://github.com/talmolake/medicare)
-  - [MediCare Application Description](https://talmolake.github.io/medicare/)
+<h2>Featured Projects:</h2>
+
+<h3>CyberNova Application</h3>
+
+AI-powered cybersecurity assistant mobile application designed to help non-technical users understand cybersecurity risks and receive actionable recommendations.
+
+Built as a cross-platform application with AI integration, secure authentication, service requests, demo scheduling, and push notifications.
+
+**Tech Stack:** React Native • Node.js • Express • PostgreSQL • Firebase Cloud Messaging • OpenRouter API
+  - [CyberNova Repository](https://github.com/talmolake/cybernova/)
+  - [CyberNova Documentation](https://talmolake.github.io/cybernova-docs/)
+
+<h3>My Green Garden</h3>
+
+A mobile plant management application that helps users discover, organise, and personalise plant care information.
+
+Users can browse plant guides, filter plants by characteristics, save favourites, create custom plant entries, and use a watering conversion calculator.
+
+**Tech Stack:** JavaScript • Firebase Firestore • Node.js • React Native
+  - [Download APK](https://github.com/talmolake/MyGreenGarden/releases/latest)
+  - [My Green Garden Repository](https://github.com/talmolake/MyGreenGarden)
+  - [My Green Garden Documentation](https://talmolake.github.io/MyGreenGarden/)
 
 
-<h3>Full Stack Enterprize Mobile Application:</h3>
+<h3>FitLife</h3>
 
-- <b>Enterprise Application (React(JavaScript), NodeJS)</b>
+Native Android fitness management application that allows users to create, manage, and track workouts and exercises.
+
+The application uses Firebase for real-time data persistence and implements Material Design principles to provide an intuitive mobile experience.
+
+**Tech Stack:** Java • Android Studio • Firebase
+  - [FitLife Repository](https://github.com/talmolake/fitlife_app)
+  - [FitLife Documentation](https://talmolake.github.io/fitlife_app/)
+
+
+<h3>Fine Dine Application</h3>
+
+A restaurant discovery and dining application that helps users explore restaurants, view ratings, reviews, locations, and menus using the Yelp API.
+
+The application allows users to search for restaurants across major cities, manage favourites, and provides an intuitive mobile experience for discovering dining options.
+
+**Tech Stack:** JavaScript • Node.js • React Native • Expo • Yelp API
   - [Fine Dine Application Code](https://github.com/talmolake/finedine)
   - [Fine Dine Application Description](https://talmolake.github.io/finedine/)
 
-<h3>Full Stack Mobile Application:</h3>
 
-- <b>Full Stack Mobile App (Android Studio (Kotlin, xml))</b>
-  - [MediCare Application Code](https://github.com/talmolake/medicare)
-  - [MediCare Application Description](https://talmolake.github.io/medicare/)
+<h2>Academic Achievements and Certifications:</h2>
 
-
-<h2>👩🏽‍💻 Recent Network Configuration Projects:</h2>
-<h3>Configuring a network via cisco packet tracer:</h3>
-
-- <b>Network Subnetting (Cisco Packet Tracer)</b>
-  - [Network Subnetting](https://github.com/talmolake/network-subnetting)
-  - [Description](https://talmolake.github.io/network-subnetting/) 
-
-<h2>👩🏽‍🎓 Academic Achievements and Certifications:</h2>
-
-  - <h3>Courses</h3><img src="https://imgur.com/O8EN3Qs.png" height="50%" width="40%" alt="courses"/>
+  - <h3>CCNA1</h3><img src="https://imgur.com/O8EN3Qs.png" height="50%" width="40%" alt="ccna1"/>
   - <h3>CyberSecurity For Robotics and Autonomous systems Certification</h3><img src="https://imgur.com/l5ATQnx.png" height="50%" width="40%" alt="cert1"/>
   - <h3>Deep Web And Cyber Security certification</h3><img src="https://imgur.com/wqQ4SmV.png" height="50%" width="40%" alt="cert2"/>
   - <h3>Certified Metaverse Expert</h3><img src="https://imgur.com/poEa3oD.png" height="50%" width="40%" alt="cert3"/>
 
-<h2>🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 <a href="mailto:nametsomolake@gmail.com">
   <img align="left" alt="TalMolake | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -63,4 +90,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3>Front End Web Application:</h3>
+
+- <b>Web Application</b>
+  - [Warner Bros Website](https://talmolake.github.io/warner/)
+  - [Warner Bros Website Code and Description](https://github.com/talmolake/warner)
+  
+<h2>👩🏽‍💻 Recent Network Configuration Projects:</h2>
+<h3>Configuring a network via cisco packet tracer:</h3>
+
+- <b>Network Subnetting (Cisco Packet Tracer)</b>
+  - [Network Subnetting](https://github.com/talmolake/network-subnetting)
+  - [Description](https://talmolake.github.io/network-subnetting/) 
 -->

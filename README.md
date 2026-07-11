@@ -9,22 +9,16 @@ Software Engineer with experience in enterprise technology environments and full
 </p>
 
 ## About Me:
-- Recently completed a BSc (Hons) in Mobile and Web Technologies at the University of Sunderland
-- Completed an industrial attachment as an IT Support Technician at First National Bank Botswana's Technology Services Division
-- Developing full-stack web and mobile applications using Java, JavaScript, TypeScript, Node.js, Kotlin, and SQL
-- Community Engagement Officer and Data Analyst at Gaborone AI Hub, leading weekly technology-focused programmes and initiatives
-- Interested in software engineering practices, scalable systems, Artificial Intelligence, and emerging technologies
+- Recently completed BSc (Hons) Mobile and Web Technologies at the University of Sunderland
+- IT Support Technician (Industrial Attachment) at First National Bank Botswana Technology Services Division
+- Community Engagement Officer & Data Analyst at Gaborone AI Hub, leading weekly technology-focused programmes and initiatives
 
 ## Technologies & Tools:
 
 **Languages:** Java • JavaScript • TypeScript • Kotlin • SQL
-
 **Frontend & Mobile:** React Native • React.js • HTML/CSS
-
 **Backend:** Node.js • Express.js • REST APIs
-
 **Databases & Cloud:** PostgreSQL • MySQL • Firebase Firestore • Firebase Cloud Messaging
-
 **Tools:** Git/GitHub • GitLab CI/CD • Postman • Figma • VS Code • IntelliJ
 
   

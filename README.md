@@ -8,7 +8,7 @@
 Software Engineer with experience in enterprise technology environments and full-stack application development, with interests in backend engineering, enterprise systems, Artificial Intelligence, and cybersecurity.
 </p>
 
-## About Me
+## About Me:
 - Recently completed a BSc (Hons) in Mobile and Web Technologies at the University of Sunderland
 - Completed an industrial attachment as an IT Support Technician at First National Bank Botswana's Technology Services Division
 - Developing full-stack web and mobile applications using Java, JavaScript, TypeScript, Node.js, Kotlin, and SQL
@@ -17,35 +17,15 @@ Software Engineer with experience in enterprise technology environments and full
 
 ## Technologies & Tools
 
-**Languages**
-- Java
-- JavaScript
-- TypeScript
-- Kotlin
-- SQL
+**Languages:** Java • JavaScript • TypeScript • Kotlin • SQL
 
-**Frontend & Mobile Development**
-- React Native
-- React.js
-- HTML/CSS
+**Frontend & Mobile:** React Native • React.js • HTML/CSS
 
-**Backend Development**
-- Node.js
-- Express.js
-- REST APIs
+**Backend:** Node.js • Express.js • REST APIs
 
-**Databases & Cloud**
-- PostgreSQL
-- MySQL
-- Firebase Firestore
-- Firebase Cloud Messaging
+**Databases & Cloud:** PostgreSQL • MySQL • Firebase Firestore • Firebase Cloud Messaging
 
-**Tools & Platforms**
-- Git/GitHub
-- GitLab CI/CD
-- Postman
-- Figma
-- VS Code, IntelliJ, Android Studio
+**Tools:** Git/GitHub • GitLab CI/CD • Postman • Figma • VS Code • IntelliJ
 
   
 <h2>Featured Projects:</h2>

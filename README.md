@@ -5,7 +5,7 @@
 <h3>Software Engineer | Full-Stack Developer</h3>
 
 <p>
-Software Engineer with experience in enterprise technology environments and full-stack application development and interests in backend engineering, enterprise systems, Artificial Intelligence, and cybersecurity.
+Software Engineer with experience in enterprise technology environments and full-stack application development, with interests in backend engineering, enterprise systems, Artificial Intelligence, and cybersecurity.
 </p>
 
 ## About Me

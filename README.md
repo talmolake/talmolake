@@ -27,7 +27,6 @@ Software Engineer with experience in enterprise technology environments and full
 **Frontend & Mobile Development**
 - React Native
 - React.js
-- Android Development
 - HTML/CSS
 
 **Backend Development**
@@ -46,16 +45,14 @@ Software Engineer with experience in enterprise technology environments and full
 - GitLab CI/CD
 - Postman
 - Figma
-- VS Code
+- VS Code, IntelliJ, Android Studio
 
   
 <h2>Featured Projects:</h2>
 
 <h3>CyberNova Application</h3>
 
-AI-powered cybersecurity assistant mobile application designed to help non-technical users understand cybersecurity risks and receive actionable recommendations.
-
-Built as a cross-platform application with AI integration, secure authentication, service requests, demo scheduling, and push notifications.
+Cross-platform AI-powered cybersecurity assistant mobile application that helps non-technical users understand cybersecurity risks through intelligent guidance and support services.
 
 **Tech Stack:** React Native • Node.js • Express • PostgreSQL • Firebase Cloud Messaging • OpenRouter API
   - [CyberNova Repository](https://github.com/talmolake/cybernova/)
@@ -63,9 +60,7 @@ Built as a cross-platform application with AI integration, secure authentication
 
 <h3>My Green Garden</h3>
 
-A mobile plant management application that helps users discover, organise, and personalise plant care information.
-
-Users can browse plant guides, filter plants by characteristics, save favourites, create custom plant entries, and use a watering conversion calculator.
+Mobile application for managing and personalising plant care guides, complete with favourites, custom entries, and a watering conversion calculator.
 
 **Tech Stack:** JavaScript • Firebase Firestore • Node.js • React Native
   - [Download APK](https://github.com/talmolake/MyGreenGarden/releases/latest)
@@ -75,9 +70,7 @@ Users can browse plant guides, filter plants by characteristics, save favourites
 
 <h3>FitLife</h3>
 
-Native Android fitness management application that allows users to create, manage, and track workouts and exercises.
-
-The application uses Firebase for real-time data persistence and implements Material Design principles to provide an intuitive mobile experience.
+Native Android fitness management application for creating, managing, and tracking workouts and exercises with real-time cloud synchronisation. 
 
 **Tech Stack:** Java • Android Studio • Firebase
   - [FitLife Repository](https://github.com/talmolake/fitlife_app)
@@ -86,9 +79,7 @@ The application uses Firebase for real-time data persistence and implements Mate
 
 <h3>Fine Dine Application</h3>
 
-A restaurant discovery and dining application that helps users explore restaurants, view ratings, reviews, locations, and menus using the Yelp API.
-
-The application allows users to search for restaurants across major cities, manage favourites, and provides an intuitive mobile experience for discovering dining options.
+Restaurant discovery application that integrates the Yelp API to help users explore restaurants, view reviews, and save favourite dining locations.
 
 **Tech Stack:** JavaScript • Node.js • React Native • Expo • Yelp API
   - [Fine Dine Repository](https://github.com/talmolake/finedine)

@@ -5,16 +5,50 @@
 <h3>Software Engineer | Full-Stack Developer</h3>
 
 <p>
-I recently completed a BSc (Hons) in Mobile and Web Technologies. I'm passionate about designing and developing reliable web and mobile applications with a focus on creating practical solutions to real-world problems.
+Software Engineer with experience in enterprise technology environments and full-stack application development and interests in backend engineering, enterprise systems, Artificial Intelligence, and cybersecurity.
 </p>
 
 ## About Me
 - Recently completed a BSc (Hons) in Mobile and Web Technologies at the University of Sunderland
 - Completed an industrial attachment as an IT Support Technician at First National Bank Botswana's Technology Services Division
-- Building full-stack web and mobile applications using Java, JavaScript, TypeScript, Node.js, Kotlin, and SQL
-- Interested in software engineering, backend development, enterprise systems, Artificial Intelligence, and mobile application development
+- Developing full-stack web and mobile applications using Java, JavaScript, TypeScript, Node.js, Kotlin, and SQL
 - Community Engagement Officer and Data Analyst at Gaborone AI Hub, leading weekly technology-focused programmes and initiatives
+- Interested in software engineering practices, scalable systems, Artificial Intelligence, and emerging technologies
 
+## Technologies & Tools
+
+**Languages**
+- Java
+- JavaScript
+- TypeScript
+- Kotlin
+- SQL
+
+**Frontend & Mobile Development**
+- React Native
+- React.js
+- Android Development
+- HTML/CSS
+
+**Backend Development**
+- Node.js
+- Express.js
+- REST APIs
+
+**Databases & Cloud**
+- PostgreSQL
+- MySQL
+- Firebase Firestore
+- Firebase Cloud Messaging
+
+**Tools & Platforms**
+- Git/GitHub
+- GitLab CI/CD
+- Postman
+- Figma
+- VS Code
+
+  
 <h2>Featured Projects:</h2>
 
 <h3>CyberNova Application</h3>
@@ -61,11 +95,11 @@ The application allows users to search for restaurants across major cities, mana
   - [Fine Dine Documentation](https://talmolake.github.io/finedine/)
 
 
-<h2>Academic Achievements and Certifications:</h2>
+<h2>Certifications & Achievements:</h2>
 
-  - <h3>CCNA1</h3><img src="https://imgur.com/O8EN3Qs.png" height="50%" width="40%" alt="ccna1"/>
-  - <h3>CyberSecurity For Robotics and Autonomous systems Certification</h3><img src="https://imgur.com/l5ATQnx.png" height="50%" width="40%" alt="cert1"/>
-  - <h3>Deep Web And Cyber Security certification</h3><img src="https://imgur.com/wqQ4SmV.png" height="50%" width="40%" alt="cert2"/>
+  - <h3>Cisco Networking Academy - CCNA 1: Introduction to Networks</h3><img src="https://imgur.com/fev1qsq.png" height="50%" width="40%" alt="ccna1"/>
+  - <h3>CyberSecurity For Robotics and Autonomous systems</h3><img src="https://imgur.com/l5ATQnx.png" height="50%" width="40%" alt="cert1"/>
+  - <h3>Deep Web And Cyber Security</h3><img src="https://imgur.com/wqQ4SmV.png" height="50%" width="40%" alt="cert2"/>
   - <h3>Certified Metaverse Expert</h3><img src="https://imgur.com/poEa3oD.png" height="50%" width="40%" alt="cert3"/>
 
 <h2>Connect with me:</h2>

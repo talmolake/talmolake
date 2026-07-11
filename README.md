@@ -57,8 +57,8 @@ A restaurant discovery and dining application that helps users explore restauran
 The application allows users to search for restaurants across major cities, manage favourites, and provides an intuitive mobile experience for discovering dining options.
 
 **Tech Stack:** JavaScript • Node.js • React Native • Expo • Yelp API
-  - [Fine Dine Application Code](https://github.com/talmolake/finedine)
-  - [Fine Dine Application Description](https://talmolake.github.io/finedine/)
+  - [Fine Dine Repository](https://github.com/talmolake/finedine)
+  - [Fine Dine Documentation](https://talmolake.github.io/finedine/)
 
 
 <h2>Academic Achievements and Certifications:</h2>

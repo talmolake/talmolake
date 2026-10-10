@@ -15,15 +15,15 @@ Software Engineer with experience in enterprise technology environments and full
 
 ## Technologies & Tools:
 
-**Languages:** Java • JavaScript • TypeScript • Kotlin • SQL
+**Languages:** Java • JavaScript • TypeScript • Kotlin
 
-**Frontend & Mobile:** React Native • React.js • HTML/CSS
+**Frontend & Mobile:** React Native • Angular • React.js • HTML • CSS
 
-**Backend:** Node.js • Express.js • REST APIs
+**Backend:** Node.js • Express.js • Spring Boot • REST APIs
 
-**Databases & Cloud:** PostgreSQL • MySQL • Firebase Firestore • Firebase Cloud Messaging
+**Databases & Cloud:** SQL • PostgreSQL • MySQL • Firebase Firestore • Firebase Cloud Messaging
 
-**Tools:** Git/GitHub • GitLab CI/CD • Postman • Figma • VS Code • IntelliJ
+**Tools:** Git • GitHub • GitLab CI/CD • Postman • Figma • VS Code • IntelliJ
 
   
 <h2>Featured Projects:</h2>
